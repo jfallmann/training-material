@@ -89,20 +89,35 @@
 [Sequencing depth and coverage: key considerations in genomic analyses][Sims2014]
 [Sims2014]: http://www.nature.com/doifinder/10.1038/nrg3642 "Sequencing depth and coverage: key considerations in genomic analyses"
 
+##RNA-seq differential expression studies: more sequence or more replication?
+
+[RNA-seq differential expression studies: more sequence or more replication?][Liu2013]
+[Liu2013]: http://bioinformatics.oxfordjournals.org/content/30/3/301.full "RNA-seq differential expression studies: more sequence or more replication?"
 
 ##Heat*seq: an interactive web tool for high-throughput sequencing experiment comparison with public data
-[HeatSeq][HeatSeq]
-
+[HeatSeq][Devailly2016]
 [Devailly2016]: http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btw407 "HeatSeq"
 
 ##BaRC Standard operating procedures
 [BaRC-SOP][BaRC-SOP]
-
 [BaRC-SOP]: http://barcwiki.wi.mit.edu/wiki/SOPs "BaRC-SOP"
 
 ##BaRC Standard operating procedures
 [RseQC][RseQC]
-
 [RseQC]: http://rseqc.sourceforge.net/ "RseQC"
 
+##FASTQC QC guide
+[FastQC][FastQC]
+[FastQC]: http://www.bioinformatics.babraham.ac.uk/training/Sequence_QC_Course/Developing%20and%20Implementing%20QC.pdf "FastQC"
 
+##RNA-Seqlopedia
+[RNASeqlopedia][RNASeqlopedia]
+[RNASeqlopedia]: http://rnaseq.uoregon.edu/ "RNASeqlopedia"
+
+##A survey of best practices for RNA-seq data analysis
+[A survey of best practices for RNA-seq data analysis][Conesa2016]
+[Conesa2016]: https://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-0881-8 "A survey of best practices for RNA-seq data analysis"
+
+##Next Generation Sequencing Overview
+[Next Generation Sequencing Overview][NGS Overview]
+[NGS Overview]: https://vlsci.github.io/lscc\_docs/tutorials/ngs\_overview/NGS\_Overview/ "Next Generation Sequencing Overview"
