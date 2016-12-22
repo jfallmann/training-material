@@ -2,16 +2,21 @@
 
 The following individuals have contributed to this training material:
 
-* Andreas Richter 
-* Anton Nekrutenko
-* Anika Erxleben 
-* Björn Grüning 
-* Devon Ryan 
-* Fabian Kilpert
-* Fidel Ramirez
-* Friederike Duendar 
-* Thomas Manke 
+* Andreas Richter
+* Anton Nekrutenko (@nekrut)
+* Anika Erxleben (@erxleben)
+* Bérénice Batut (@bebatut)
+* Björn Grüning (@bgruening)
+* Devon Ryan (@dpryan79)
+* Fabian Kilpert (@kilpert)
+* Fidel Ramirez (@fidelram)
+* Friederike Duendar (@friedue)
+* Gildas Le Corguillé (@lecorguille)
+* Thomas Manke (@thomasmanke)
 * Torsten Houwaart
+* Markus Wolfien (@mwolfien)
+* Jennifer Del Giudice (@jennydg)
+* Yvan Le Bras (@yvanlebras)
 
 
 # Institutional sponsors
